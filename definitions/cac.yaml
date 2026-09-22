@@ -1,0 +1,6 @@
+term: cac
+definition: Marketing spend divided by attributed purchases, reported by acquisition channel.
+domain: growth
+resolution_target: cac_by_channel
+is_proxy: false
+aliases: [customer acquisition cost]

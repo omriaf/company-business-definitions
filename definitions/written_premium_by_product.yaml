@@ -1,0 +1,5 @@
+term: written_premium_by_product
+definition: Sum of annual written premium for policies of the selected status, grouped by coverage product.
+domain: policy_uw
+resolution_target: written_premium_by_product
+is_proxy: false

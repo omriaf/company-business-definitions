@@ -1,0 +1,5 @@
+term: top_campaigns_by_spend
+definition: Marketing campaigns ranked by total spend, limited to the requested top count.
+domain: growth
+resolution_target: top_campaigns_by_spend
+is_proxy: false

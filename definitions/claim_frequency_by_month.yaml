@@ -1,0 +1,5 @@
+term: claim_frequency_by_month
+definition: Number of claims grouped by month of loss.
+domain: claims
+resolution_target: claim_frequency_by_month
+is_proxy: false

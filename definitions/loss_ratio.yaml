@@ -1,0 +1,6 @@
+term: loss_ratio
+definition: Incurred loss divided by written premium, with premium deduplicated once per distinct policy before aggregation. This is a proxy because earned premium is unavailable.
+domain: claims
+resolution_target: loss_ratio_by_coverage_line
+is_proxy: true
+aliases: [loss ratio]

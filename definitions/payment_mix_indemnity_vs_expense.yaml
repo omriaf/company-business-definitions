@@ -1,0 +1,5 @@
+term: payment_mix_indemnity_vs_expense
+definition: Paid claim dollars and their share split between indemnity and expense payments.
+domain: claims
+resolution_target: payment_mix_indemnity_vs_expense
+is_proxy: false

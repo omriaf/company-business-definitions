@@ -1,0 +1,5 @@
+term: funnel_dropoff_overall
+definition: Overall visitor counts and conversion between successive acquisition-funnel steps.
+domain: growth
+resolution_target: funnel_dropoff_overall
+is_proxy: false

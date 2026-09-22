@@ -1,0 +1,5 @@
+term: underwriting_decision_mix
+definition: Count and share of underwriting decisions grouped by decision and risk tier.
+domain: policy_uw
+resolution_target: underwriting_decision_mix
+is_proxy: false

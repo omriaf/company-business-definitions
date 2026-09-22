@@ -1,0 +1,5 @@
+term: purchase_rate_by_device
+definition: Purchases divided by acquisition sessions, grouped by device type.
+domain: growth
+resolution_target: purchase_rate_by_device
+is_proxy: false

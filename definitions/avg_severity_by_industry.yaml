@@ -1,0 +1,5 @@
+term: avg_severity_by_industry
+definition: Average incurred amount for claims of the selected status, grouped by policyholder industry.
+domain: claims
+resolution_target: avg_severity_by_industry
+is_proxy: false

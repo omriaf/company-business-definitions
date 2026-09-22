@@ -1,0 +1,5 @@
+term: avg_quoted_premium_by_product
+definition: Average quoted annual premium grouped by coverage product.
+domain: policy_uw
+resolution_target: avg_quoted_premium_by_product
+is_proxy: false

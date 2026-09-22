@@ -1,0 +1,6 @@
+term: avg_days_to_settle
+definition: Average calendar days from a claim's reported date through its closed date.
+domain: claims
+resolution_target: avg_days_to_settle
+is_proxy: false
+aliases: [average days to settle, time to settle]

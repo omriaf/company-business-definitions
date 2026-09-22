@@ -1,0 +1,6 @@
+term: bind_rate
+definition: The share of completed quotes that become bound policies.
+domain: policy_uw
+resolution_target: overall_bind_rate
+is_proxy: false
+aliases: [bind rate, quote-to-bind rate]

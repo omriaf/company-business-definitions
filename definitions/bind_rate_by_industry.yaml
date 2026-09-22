@@ -1,0 +1,5 @@
+term: bind_rate_by_industry
+definition: Quote-to-bind rate grouped by the applicant's industry.
+domain: policy_uw
+resolution_target: bind_rate_by_industry
+is_proxy: false
