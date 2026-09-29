@@ -1,6 +1,6 @@
 term: bind_rate
-definition: The share of completed quotes that become bound policies.
+definition: The overall share of completed quotes that become bound policies, across all industries.
 domain: policy_uw
 resolution_target: overall_bind_rate
 is_proxy: false
-aliases: [bind rate, quote-to-bind rate]
+aliases: [overall bind rate, quote-to-bind rate, overall conversion rate, qtb rate]

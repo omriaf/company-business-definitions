@@ -1,5 +1,6 @@
 term: bind_rate_by_industry
-definition: Quote-to-bind rate grouped by the applicant's industry.
+definition: Quote-to-bind rate grouped by the applicant's industry. Shows which industries convert quotes to bound policies at the highest and lowest rates.
 domain: policy_uw
 resolution_target: bind_rate_by_industry
 is_proxy: false
+aliases: [lbr, lbr by industry, lowest bind rate, lowest bind rate by industry, bind rate by industry, industry bind rate, conversion rate by industry]
